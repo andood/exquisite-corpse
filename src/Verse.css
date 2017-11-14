@@ -1,0 +1,15 @@
+.verse {
+  padding: 0;
+}
+
+.verse textarea {
+  width: 30em;
+  height: 10em;
+  resize: none;
+  font-size: 1em;
+}
+
+.submit { 
+  width: 30px; 
+  margin: 5px auto 0 auto;
+}
